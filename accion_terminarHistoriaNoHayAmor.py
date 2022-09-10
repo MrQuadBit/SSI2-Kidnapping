@@ -1,0 +1,2 @@
+def terminarHistoriaNoHayAmor():
+	print("terminarHistoriaNoHayAmor")

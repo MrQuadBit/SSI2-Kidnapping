@@ -1,0 +1,2 @@
+def ejecutarSecuestro():
+	print("ejecutarSecuestro")

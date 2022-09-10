@@ -1,0 +1,2 @@
+def obtenerInformacionSecuestro():
+	print("obtenerInformacionSecuestro")

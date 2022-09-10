@@ -1,0 +1,2 @@
+def terminarHistoriaNormal():
+	print("terminarHistoriaNormal")
